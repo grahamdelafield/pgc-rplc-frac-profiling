@@ -1,7 +1,7 @@
 # pgc-rplc-frac-profiling
 Code and files related to the manuscript _____.
 
-<img src="https://github.com/graham-delafield/pgc-rplc-frac-profiling/blob/main/images/JPR_DataCompleteness_TOC.png" align="right"
+<img src="https://github.com/grahamdelafield/pgc-rplc-frac-profiling/blob/main/images/JPR_DataCompleteness_TOC.png" align="right"
      alt="BCaP Cell Model" height="250">
      
 
